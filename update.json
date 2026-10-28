@@ -1,6 +1,6 @@
 {
   "version": "v6.3",
   "versionCode": 63,
-  "zipUrl": "https://github.com/xiaoxin-66/xiaobu-dispatch/releases/download/xiaobu-v6.3/xiaobu-v6.3.1.zip",
+  "zipUrl": "https://github.com/xiaoxin-66/xiaobu-dispatch/releases/download/xiaobu-v6.3/xiaobu-v6.3.zip",
   "changelog": "1. 修复充电状态、温度读取\n2. 全面重写调度器目录探测，支持非标准 Governor\n3. 优化游戏包名识别，兼容 mCurrentFocus\n4. 新增云端自动检测更新及一键下载安装\n5. 极速秒开界面与更新提示呼吸灯"
 }
