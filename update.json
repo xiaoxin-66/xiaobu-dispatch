@@ -1,6 +1,6 @@
 {
   "version": "v6.2",
   "versionCode": 62,
-  "zipUrl": "等下替换",
+  "zipUrl": "https://github.com/user-attachments/files/34088543/xiaobu_V6.1.zip",
   "changelog": "1. 修复充电状态、温度读取\n2. 支持全量芯片\n3. 新增云端更新与自动检测"
 }
