@@ -1,6 +1,6 @@
 {
-  "version": "v6.4",
-  "versionCode": 64,
-  "zipUrl": "https://github.com/xiaoxin-66/xiaobu-dispatch/releases/download/v6.4/v6.4.zip",
-  "changelog": "1. 更新逻辑重构，点击直接跳转浏览器下载\n2. 极速秒开优化\n3. 底层温度及充电状态修复"
+  "version": "v6.7",
+  "versionCode": 67,
+  "zipUrl": "https://github.com/xiaoxin-66/xiaobu-dispatch/releases/download/v6.7/xiaobu-v6.7.zip",
+  "changelog": "1. 修复应用生效无响应，确保 100% 真生效\n2. 重构底层 FPS 读取，支持全局实时帧率显示\n3. 重构 CPU 集群算法，完美兼容所有处理器架构\n4. 增强进程守护稳定性"
 }
